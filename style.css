@@ -1,0 +1,23 @@
+#pagehead:hover{
+    background:aqua;
+}
+#pagehead{
+    background-color: white;
+    transition: background 3s; 
+    -webkit-transition: background 3s; 
+    height: 35px;
+}
+.linecenter{
+    background-color: black;
+    width: 90px;
+    height: 10px;
+    margin-left: 40%;
+    margin-top: -5px;
+}
+#centeredimg{
+    margin-left: 30%;
+    margin-top: 20px;
+}
+#lol{
+    margin-left: 3px;
+}
